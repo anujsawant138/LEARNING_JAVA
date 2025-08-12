@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class result {
-    public static void main(Strings1[] args) {
+    public static void main(Strings[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.print("ENTER THE MARKS OF SUBJECT 1:");
         int a1=sc.nextByte();

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class add {
-    public static void main(Strings1[] args) {
+    public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.print("ENTER NUMBER 1:");
         int a = sc.nextInt();
